@@ -1,0 +1,79 @@
+04-MAR-24 -- MMS DISPATCH – Sistema de reporte -- 08:35:14
+
+
+ Cuadrilla: B           
+
+Palas:
+         Oper Alineado      C—digo     Oper Ingresado        C—digo     Estado     Raz—n          Ubicaci—n       Bus       Estacionamiento
+ -
+ LDW0046 Simpson, Lisa      NINGUNA    NINGUNA               NINGUNA    Standby    INDUSTRIAL     SOB3140E                  NINGUNA            
+ LDW0908 Bros, Mario        NINGUNA    NINGUNA               NINGUNA    Standby    INDUSTRIAL     EST.TALLERES              NINGUNA            
+ LDW0909 Chayanne           NINGUNA    NINGUNA               NINGUNA    Standby    INDUSTRIAL     SAL3190N                  NINGUNA            
+ LDW0910 NINGUNA            NINGUNA    NINGUNA               NINGUNA    Standby    INDUSTRIAL     EST.TALLERES              NINGUNA            
+ LDW0911 OPER1              20083231   NINGUNA               NINGUNA    Demora     SIN OPERADOR   SLM3175N        BUS01     COMEDOR CM2        
+ LDW0912 OPER2              20003577   NINGUNA               NINGUNA    Demora     CAMBIO DE TURN 2980/N17/001    BUS04     COMEDOR 3140       
+ LDW0913 OPER3              20010200   NINGUNA               NINGUNA    Demora     CAMBIO DE TURN 3010/N17/001    BUS10     EST.P69-75-66      
+ LDW0914 DiCaprio, Leonardo NINGUNA    REEMPLAZO C           00000010   Demora     SIN OPERADOR   3125/N11/001    BUS02     COMEDOR CM2        
+ LDW0915 OPER4              20028455   OPER6                 20084250   Operativo  PRODUCCION     2500/E06/001    BUS06     NINGUNA            
+ SHD0080 McKellen, Ian      NINGUNA    NINGUNA               NINGUNA    Standby    NINGUNA        PLATAFORMA PALA           NINGUNA            
+ SHD0081 Pig, Pepa          NINGUNA    NINGUNA               NINGUNA    Mantencio  MANTENCION NO  2890/E07/001              NINGUNA            
+ SHD0082 OPER5              20004471   OPER7                 20016797   Operativo  PRODUCCION     2735/N09/001    BUS02     NINGUNA            
+
+Camiones:
+         Oper Alineado      C—digo     Oper Ingresado        C—digo     Estado     Raz—n          Ubicaci—n       Bus       Estacionamiento
+ -
+ SINCAEX Hernandez, Maximo  NINGUNA    NINGUNA               NINGUNA    Standby    INDUSTRIAL     Desconocida               NINGUNA            
+ TKD0227 Fernández, Juan    NINGUNA    NINGUNA               NINGUNA    Mantencio  MANTENCION NO  SHE0077(**)     BUS07     EST. 3070          
+ TKD0228 Henríquez, Camilo  NINGUNA    OPER11                20075990   Operativo  PRODUCCION     NE013           BUS12     NINGUNA            
+ TKD0229 NINGUNA            NINGUNA    NINGUNA               NINGUNA    Mantencio  MANTENCION PRO EST.COSTA                 EST.COSTA          
+ TKD0230 OPER8              20030102   OPER12                21006544   Operativo  PRODUCCION     SHE0073(**)     BUS09     NINGUNA            
+ TKD0231 Guitierrez, Martín NINGUNA    NINGUNA               NINGUNA    Mantencio  MANTENCION NO  SHE0068(**)               NE008              
+ TKD0232 OPER9              20089001   OPER13                20092411   Operativo  PRODUCCION     NE040           BUS13     NINGUNA            
+ TKD0233 Pinzón, Beatriz    NINGUNA    OPER14                20088568   Operativo  PRODUCCION     SHE0092(**)     BUS12     NINGUNA            
+ TKD0234 Tyler, Steven      NINGUNA    OPER15                21022221   Operativo  PRODUCCION     NE131           BUS08     NINGUNA            
+ TKD0235 Brito, Alan        NINGUNA    NINGUNA               NINGUNA    Mantencio  MANTENCION PRO EST.COSTA                 EST.COSTA          
+ TKD0236 Ron Morejón, Míu   NINGUNA    OPER16                05001017   Operativo  PRODUCCION     NE251                     NINGUNA            
+ TKD0237 Ken, Clark         NINGUNA    OPER17                21006460   Operativo  PRODUCCION     SHD0082         BUS01     NINGUNA            
+ TKD0238 Ochoa, Robert      NINGUNA    OPER18                21017016   Operativo  PRODUCCION     SHE0077(**)     BUS09     NINGUNA            
+ TKD0239 OPER10             21017207   OPER19                05001009   Operativo  PRODUCCION     SHE0074                   NINGUNA            
+ TKD0240 Rincón, Mariano    NINGUNA    OPER20                21017008   Operativo  PRODUCCION     NN070           BUS01     NINGUNA            
+
+Auxiliar:
+         Oper Alineado      C—digo     Oper Ingresado        C—digo     Estado     Raz—n          Ubicaci—n       Bus       
+ -
+ BUS01   Parker, Peter      NINGUNA    NINGUNA               NINGUNA    Operativo  PRODUCCION     COMEDOR CM1               
+ BUS02   Tolkien, Jhon      NINGUNA    NINGUNA               NINGUNA    Operativo  PRODUCCION     COMEDOR CM1               
+ BUS03   Echeverría, Ramón  NINGUNA    NINGUNA               NINGUNA    Demora     CAMBIO DE TURN EST.CORDILLERA            
+ BUS04   Rambo, Jhon        NINGUNA    NINGUNA               NINGUNA    Operativo  PRODUCCION     COMEDOR CM1               
+ BUS05   Wick, Jhon         NINGUNA    NINGUNA               NINGUNA    Operativo  PRODUCCION     COMEDOR CM1               
+ BUS06   Díaz, Manolo       NINGUNA    NINGUNA               NINGUNA    Operativo  PRODUCCION     COMEDOR CM1               
+ BUS07   Rice, Anne         NINGUNA    NINGUNA               NINGUNA    Operativo  PRODUCCION     COMEDOR CM1               
+ BUS08   Araya, Carmen      NINGUNA    NINGUNA               NINGUNA    Operativo  PRODUCCION     COMEDOR CM1               
+ BUS09   Ron, Alexandra     NINGUNA    NINGUNA               NINGUNA    Demora     CAMBIO DE TURN COMEDOR CM1               
+ BUS10   Pérez, Pedro       NINGUNA    NINGUNA               NINGUNA    Operativo  PRODUCCION     COMEDOR CM1               
+ BUS11   Alvarez, Naylimar  NINGUNA    NINGUNA               NINGUNA    Operativo  PRODUCCION     COMEDOR CM1               
+ BUS12   Acuña, Fernanda    NINGUNA    NINGUNA               NINGUNA    Operativo  PRODUCCION     COMEDOR CM1               
+ BUS13   Perry, Joe         NINGUNA    NINGUNA               NINGUNA    Operativo  PRODUCCION     COMEDOR CM1               
+ BUS14   Gómez, Roberto     NINGUNA    NINGUNA               NINGUNA    Operativo  PRODUCCION     COMEDOR CM1               
+ BUS15   Armstrong, Billy   NINGUNA    NINGUNA               NINGUNA    Operativo  PRODUCCION     COMEDOR CM1               
+ BUS16   Stark, Tony        NINGUNA    NINGUNA               NINGUNA    Operativo  PRODUCCION     COMEDOR CM1               
+ BUS17   Banner, Bruce      NINGUNA    NINGUNA               NINGUNA    Operativo  PRODUCCION     COMEDOR CM1               
+ BUS18   Romanov, Natasha   NINGUNA    NINGUNA               NINGUNA    Operativo  PRODUCCION     COMEDOR CM1               
+ BUS19   Rogers, Steve      NINGUNA    NINGUNA               NINGUNA    Operativo  PRODUCCION     COMEDOR CM1               
+ BUS21   Odinson, Thor      NINGUNA    NINGUNA               NINGUNA    Operativo  PRODUCCION     EST.COSTA                 
+ BUS22   Barton, Clint      NINGUNA    NINGUNA               NINGUNA    Operativo  PRODUCCION     EST.COSTA                 
+ BUSAT   Maximoff, Wanda    NINGUNA    NINGUNA               NINGUNA    Operativo  PRODUCCION     EST.COSTA                 
+ CH1     T'Challa           NINGUNA    NINGUNA               NINGUNA    Mantencio  NINGUNA        CH001                     
+ CH2     Strange, Stephen   NINGUNA    NINGUNA               NINGUNA    Mantencio  NINGUNA        CH002                     
+ CH3     Espinoza, Rosa     NINGUNA    NINGUNA               NINGUNA    Operativo  PRODUCCION     CH003                     
+ CH4     Triviño, Tulio     NINGUNA    NINGUNA               NINGUNA    Operativo  PRODUCCION     CH004                     
+ CH5     Mario Hugo         NINGUNA    NINGUNA               NINGUNA    Operativo  PRODUCCION     CH005                     
+ COM3140 Bodoque            NINGUNA    NINGUNA               NINGUNA    Demora     CAMBIO DE TURN COMEDOR CM1               
+ TKS0002 Turbina, Freddy    NINGUNA    NINGUNA               NINGUNA    Mantencio  MANTENCION NO  COMEDOR CM1               
+ TKS0007 Casas, Armando     NINGUNA    NINGUNA               NINGUNA    Standby    INDUSTRIAL     CANCHA ENTRENAM           
+ TKS0612 Guerra, Armando    NINGUNA    NINGUNA               NINGUNA    Mantencio  MANTENCION NO  COMEDOR CM2               
+ TKS0613 Oria, Suzana       NINGUNA    OPER21                20008108   Operativo  PRODUCCION     NN080                     
+ TKS0614 Cuevas, Beto       NINGUNA    OPER22                20003199   Operativo  PRODUCCION     EST. 3070                 
+ TKS0615 NINGUNA            NINGUNA    OPER23                20004436   Operativo  PRODUCCION     NE107                     
+ TKS0616 DeVita,Franco      NINGUNA    OPER24                20011808   Operativo  PRODUCCION     NE092                     
+ TKS0617 Díaz, Simón        NINGUNA    OPER25                NINGUNA    Mantencio  MANTENCION NO  EST. 3090        	    

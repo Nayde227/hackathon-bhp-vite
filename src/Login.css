@@ -1,0 +1,40 @@
+/* LoginForm.css */
+body{
+  font-family: roboto;
+  
+}
+
+.login-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh; /* Esto asegura que el contenedor ocupe toda la altura de la ventana */
+
+    margin:100px;
+
+  }
+
+
+ .iniciarSesion{
+  align-items: center;
+  justify-content: center;
+  margin-top:1rem;
+  margin-bottom: 1.5rem;
+  font-size: large;
+ }
+  
+  .login-form {
+    border: 1px solid #ccc;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px #252525;
+    width: 500px;
+    margin-top: 0 0 100px;
+  }
+  
+  
+  .css-163ljxj-MuiStack-root{
+    margin-top: 1rem;
+    margin-bottom: 1.2rem;
+  }
+ 

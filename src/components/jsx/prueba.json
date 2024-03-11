@@ -1,0 +1,167 @@
+{
+    "listaPrueba": [
+        {
+            "id": 30,
+            "operador": "Acuña, Fernanda",
+            "ubicacion": "SHE0073(**)",
+            "bus": "N/A"
+        },
+        {
+            "id": 29,
+            "operador": "Alvarez, Naylimar",
+            "ubicacion": "EST.TALLERES",
+            "bus": "BUS05"
+        },
+        {
+            "id": 26,
+            "operador": "Araya, Carmen",
+            "ubicacion": "COMEDOR",
+            "bus": "BUS01"
+        },
+        {
+            "id": 33,
+            "operador": "Armstrong, Billy Joe",
+            "ubicacion": "3010/N17/001",
+            "bus": "BUS30"
+        },
+        {
+            "id": 15,
+            "operador": "Brito, Alan",
+            "ubicacion": "EST.TALLERES",
+            "bus": "BUS05"
+        },
+        {
+            "id": 2,
+            "operador": "Bros, Mario",
+            "ubicacion": "EST.TALLERES",
+            "bus": "N/A"
+        },
+        {
+            "id": 3,
+            "operador": "Chayanne",
+            "ubicacion": "SLM3175N",
+            "bus": "N/A"
+        },
+        {
+            "id": 24,
+            "operador": "Díaz, Manolo",
+            "ubicacion": "3010/N17/001",
+            "bus": "BUS30"
+        },
+        {
+            "id": 22,
+            "operador": "Echeverría, Ramón",
+            "ubicacion": "SHE0073(**)",
+            "bus": "BUS10"
+        },
+	{
+            "id": 32,
+            "operador": "Gómez, Roberto",
+            "ubicacion": "COMEDOR",
+            "bus": "BUS01"
+        },
+        {
+            "id": 12,
+            "operador": "Gutierrez, Martín",
+            "ubicacion": "SHE0073(**)",
+            "bus": "BUS10"
+        },
+        {
+            "id": 10,
+            "operador": "Henríquez, Camilo",
+            "ubicacion": "EST.TALLERES",
+            "bus": "BUS05"
+        },
+        {
+            "id": 8,
+            "operador": "Hernandez, Maximiliano",
+            "ubicacion": "SLM3175N",
+            "bus": "N/A"
+        },
+        {
+            "id": 17,
+            "operador": "Ken, Clark",
+            "ubicacion": "SHE0073(**)",
+            "bus": "BUS10"
+        },
+        {
+            "id": 6,
+            "operador": "McKellen, Ian",
+            "ubicacion": "SHE0073(**)",
+            "bus": "BUS10"
+        },
+        {
+            "id": 18,
+            "operador": "Ochoa, Robert",
+            "ubicacion": "3010/N17/001",
+            "bus": "BUS30"
+        },
+ 	{
+            "id": 20,
+            "operador": "Parker, Peter",
+            "ubicacion": "EST.TALLERES",
+            "bus": "BUS05"
+        },
+ 	{
+            "id": 31,
+            "operador": "Perry, Joe",
+            "ubicacion": "SLM3175N",
+            "bus": "BUS05"
+        },
+        {
+            "id": 7,
+            "operador": "Pig, Pepa",
+            "ubicacion": "COMEDOR",
+            "bus": "BUS01"
+        },
+        {
+            "id": 13,
+            "operador": "Pinzón, Beatriz",
+            "ubicacion": "COMEDOR",
+            "bus": "BUS01"
+        },
+       {
+            "id": 25,
+            "operador": "Rice, Anne",
+            "ubicacion": "EST.TALLERES",
+            "bus": "N/A"
+        },
+        {
+            "id": 19,
+            "operador": "Rincón, Mariano",
+            "ubicacion": "COMEDOR",
+            "bus": "N/A"
+        },
+	{
+            "id": 27,
+            "operador": "Ron, Alexandra",
+            "ubicacion": "SLM3175N",
+            "bus": "BUS09"
+        },
+	{
+            "id": 16,
+            "operador": "Ron Morejón, Míu",
+            "ubicacion": "SLM3175N",
+            "bus": "BUS05"
+        },
+	{
+            "id": 1,
+            "operador": "Toriyama, Akira",
+            "ubicacion": "3010/N17/001",
+            "bus": "N/A"
+        },
+        {
+            "id": 21,
+            "operador": "Tolkien, John Ronnald",
+            "ubicacion": "SLM3175N",
+            "bus": "BUS09"
+        },
+ 
+        {
+            "id": 14,
+            "operador": "Tyler, Steven",
+            "ubicacion": "3010/N17/001",
+            "bus": "N/A"
+        }
+    ]
+}

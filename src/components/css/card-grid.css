@@ -1,0 +1,27 @@
+#operariosGrilla{
+    margin:20px;
+    display:grid;
+    grid-template-columns: repeat(5, 1fr); 
+    grid-template-rows: repeat(3, auto); 
+    gap: 10px; 
+    background-color: #FBFBFB;
+    color: #252525;
+  }
+
+  .scroll-container{
+    scroll-behavior: smooth;
+  }
+
+  @keyframes scrollAnimation {
+    0% {
+      transform: translateY(0); /* Comienza desde la posición inicial */
+    }
+    100% {
+      transform: translateY(-100%); /* Se mueve hacia arriba */
+    }
+  }
+  
+  /* Aplicar la animación al contenedor */
+  .scroll-container {
+    animation: scrollAnimation 60s linear infinite; /* 10 segundos de duración, movimiento lineal, se repite infinitamente */
+  }

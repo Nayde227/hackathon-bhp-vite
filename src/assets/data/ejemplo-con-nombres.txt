@@ -1,0 +1,79 @@
+04-MAR-24 -- MMS DISPATCH  Sistema de reporte -- 08:35:14
+
+
+ Cuadrilla: B           
+
+Palas:
+         Oper Alineado      Código     Oper Ingresado        Código     Estado     Razón          Ubicación       Bus       Estacionamiento
+ -
+ LDW0046 Simpson, Lisa      NINGUNA    NINGUNA               NINGUNA    Standby    INDUSTRIAL     SOB3140E        BUS06     NINGUNA            
+ LDW0908 Bros, Mario        NINGUNA    NINGUNA               NINGUNA    Standby    INDUSTRIAL     EST.TALLERES              NINGUNA            
+ LDW0909 Chayanne           NINGUNA    NINGUNA               NINGUNA    Standby    INDUSTRIAL     SAL3190N        BUS07     NINGUNA            
+ LDW0910 NINGUNA            NINGUNA    NINGUNA               NINGUNA    Standby    INDUSTRIAL     EST.TALLERES              NINGUNA            
+ LDW0911 Tolkien, Jhon      20083231   NINGUNA               NINGUNA    Demora     SIN OPERADOR   SLM3175N        BUS01     COMEDOR CM2        
+ LDW0912 Henríquez, Camilo  20003577   NINGUNA               NINGUNA    Demora     CAMBIO DE TURN 2980/N17/001    BUS04     COMEDOR 3140       
+ LDW0913 Wick, Jhon         20010200   NINGUNA               NINGUNA    Demora     CAMBIO DE TURN 3010/N17/001    BUS10     EST.P69-75-66      
+ LDW0914 NINGUNA            NINGUNA    REEMPLAZO C           00000010   Demora     SIN OPERADOR   3125/N11/001    BUS02     COMEDOR CM2        
+ LDW0915 Ken, Clark         20028455   OPER6                 20084250   Operativo  PRODUCCION     2500/E06/001    BUS06     NINGUNA            
+ SHD0080 McKellen, Ian      NINGUNA    NINGUNA               NINGUNA    Standby    NINGUNA        PLATAFORMA PALA           NINGUNA            
+ SHD0081 Pig, Pepa          NINGUNA    NINGUNA               NINGUNA    Mantencio  MANTENCION NO  2890/E07/001              NINGUNA            
+ SHD0082 Ron, Alexandra     20004471   OPER7                 20016797   Operativo  PRODUCCION     2735/N09/001    BUS02     NINGUNA            
+
+Camiones:
+         Oper Alineado      Código     Oper Ingresado        Código     Estado     Razón          Ubicación       Bus       Estacionamiento
+ -
+ SINCAEX Hernandez, Máximo  NINGUNA    NINGUNA               NINGUNA    Standby    INDUSTRIAL     Desconocida               NINGUNA            
+ TKD0227 NINGUNA            NINGUNA    NINGUNA               NINGUNA    Mantencio  MANTENCION NO  SHE0077(**)     BUS07     EST. 3070          
+ TKD0228 NINGUNA            NINGUNA    OPER11                20075990   Operativo  PRODUCCION     NE013           BUS12     NINGUNA            
+ TKD0229 NINGUNA            NINGUNA    NINGUNA               NINGUNA    Mantencio  MANTENCION PRO EST.COSTA                 EST.COSTA          
+ TKD0230 Pérez, Pedro       20030102   OPER12                21006544   Operativo  PRODUCCION     SHE0073(**)     BUS09     NINGUNA            
+ TKD0231 Guitiérrez, Martín NINGUNA    NINGUNA               NINGUNA    Mantencio  MANTENCION NO  SHE0068(**)               NE008              
+ TKD0232 Álvarez, Naylimar  20089001   OPER13                20092411   Operativo  PRODUCCION     NE040           BUS13     NINGUNA            
+ TKD0233 NINGUNA            NINGUNA    OPER14                20088568   Operativo  PRODUCCION     SHE0092(**)     BUS12     NINGUNA            
+ TKD0234 NINGUNA            NINGUNA    OPER15                21022221   Operativo  PRODUCCION     NE131           BUS08     NINGUNA            
+ TKD0235 Brito, Alan        NINGUNA    NINGUNA               NINGUNA    Mantencio  MANTENCION PRO EST.COSTA       BUS09     EST.COSTA          
+ TKD0236 Ron Morejón, Miu   NINGUNA    OPER16                05001017   Operativo  PRODUCCION     NE251                     NINGUNA            
+ TKD0237 Pérez, Carla       NINGUNA    OPER17                21006460   Operativo  PRODUCCION     SHD0082         BUS01     NINGUNA            
+ TKD0238 Ochoa B., Robert   NINGUNA    OPER18                21017016   Operativo  PRODUCCION     SHE0077(**)     BUS09     NINGUNA            
+ TKD0239 Araya, Carmen      21017207   OPER19                05001009   Operativo  PRODUCCION     SHE0074                   NINGUNA            
+ TKD0240 Ochoa H., Robert   NINGUNA    OPER20                21017008   Operativo  PRODUCCION     NN070           BUS01     NINGUNA            
+
+Auxiliar:
+         Oper Alineado      Código     Oper Ingresado        Código     Estado     Razón          Ubicación       Bus       
+ -
+ BUS01   NINGUNA            NINGUNA    NINGUNA               NINGUNA    Operativo  PRODUCCION     COMEDOR CM1               
+ BUS02   NINGUNA            NINGUNA    NINGUNA               NINGUNA    Operativo  PRODUCCION     COMEDOR CM1               
+ BUS03   NINGUNA            NINGUNA    NINGUNA               NINGUNA    Demora     CAMBIO DE TURN EST.CORDILLERA            
+ BUS04   NINGUNA            NINGUNA    NINGUNA               NINGUNA    Operativo  PRODUCCION     COMEDOR CM1               
+ BUS05   NINGUNA            NINGUNA    NINGUNA               NINGUNA    Operativo  PRODUCCION     COMEDOR CM1               
+ BUS06   NINGUNA            NINGUNA    NINGUNA               NINGUNA    Operativo  PRODUCCION     COMEDOR CM1               
+ BUS07   NINGUNA            NINGUNA    NINGUNA               NINGUNA    Operativo  PRODUCCION     COMEDOR CM1               
+ BUS08   NINGUNA            NINGUNA    NINGUNA               NINGUNA    Operativo  PRODUCCION     COMEDOR CM1               
+ BUS09   NINGUNA            NINGUNA    NINGUNA               NINGUNA    Demora     CAMBIO DE TURN COMEDOR CM1               
+ BUS10   NINGUNA            NINGUNA    NINGUNA               NINGUNA    Operativo  PRODUCCION     COMEDOR CM1               
+ BUS11   NINGUNA            NINGUNA    NINGUNA               NINGUNA    Operativo  PRODUCCION     COMEDOR CM1               
+ BUS12   NINGUNA            NINGUNA    NINGUNA               NINGUNA    Operativo  PRODUCCION     COMEDOR CM1               
+ BUS13   NINGUNA            NINGUNA    NINGUNA               NINGUNA    Operativo  PRODUCCION     COMEDOR CM1               
+ BUS14   NINGUNA            NINGUNA    NINGUNA               NINGUNA    Operativo  PRODUCCION     COMEDOR CM1               
+ BUS15   NINGUNA            NINGUNA    NINGUNA               NINGUNA    Operativo  PRODUCCION     COMEDOR CM1               
+ BUS16   NINGUNA            NINGUNA    NINGUNA               NINGUNA    Operativo  PRODUCCION     COMEDOR CM1               
+ BUS17   NINGUNA            NINGUNA    NINGUNA               NINGUNA    Operativo  PRODUCCION     COMEDOR CM1               
+ BUS18   NINGUNA            NINGUNA    NINGUNA               NINGUNA    Operativo  PRODUCCION     COMEDOR CM1               
+ BUS19   NINGUNA            NINGUNA    NINGUNA               NINGUNA    Operativo  PRODUCCION     COMEDOR CM1               
+ BUS21   NINGUNA            NINGUNA    NINGUNA               NINGUNA    Operativo  PRODUCCION     EST.COSTA                 
+ BUS22   NINGUNA            NINGUNA    NINGUNA               NINGUNA    Operativo  PRODUCCION     EST.COSTA                 
+ BUSAT   NINGUNA            NINGUNA    NINGUNA               NINGUNA    Operativo  PRODUCCION     EST.COSTA                 
+ CH1     NINGUNA            NINGUNA    NINGUNA               NINGUNA    Mantencio  NINGUNA        CH001                     
+ CH2     NINGUNA            NINGUNA    NINGUNA               NINGUNA    Mantencio  NINGUNA        CH002                     
+ CH3     NINGUNA            NINGUNA    NINGUNA               NINGUNA    Operativo  PRODUCCION     CH003                     
+ CH4     NINGUNA            NINGUNA    NINGUNA               NINGUNA    Operativo  PRODUCCION     CH004                     
+ CH5     NINGUNA            NINGUNA    NINGUNA               NINGUNA    Operativo  PRODUCCION     CH005                     
+ COM3140 NINGUNA            NINGUNA    NINGUNA               NINGUNA    Demora     CAMBIO DE TURN COMEDOR CM1               
+ TKS0002 NINGUNA            NINGUNA    NINGUNA               NINGUNA    Mantencio  MANTENCION NO  COMEDOR CM1               
+ TKS0007 NINGUNA            NINGUNA    NINGUNA               NINGUNA    Standby    INDUSTRIAL     CANCHA ENTRENAM           
+ TKS0612 NINGUNA            NINGUNA    NINGUNA               NINGUNA    Mantencio  MANTENCION NO  COMEDOR CM2               
+ TKS0613 NINGUNA            NINGUNA    OPER21                20008108   Operativo  PRODUCCION     NN080                     
+ TKS0614 NINGUNA            NINGUNA    OPER22                20003199   Operativo  PRODUCCION     EST. 3070                 
+ TKS0615 NINGUNA            NINGUNA    OPER23                20004436   Operativo  PRODUCCION     NE107                     
+ TKS0616 NINGUNA            NINGUNA    OPER24                20011808   Operativo  PRODUCCION     NE092                     
+ TKS0617 NINGUNA            NINGUNA    OPER25                NINGUNA    Mantencio  MANTENCION NO  EST. 3090        	    
